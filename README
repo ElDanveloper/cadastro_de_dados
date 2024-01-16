@@ -18,7 +18,7 @@ Clone ou baixe este repositório para o diretório htdocs do seu XAMPP.
 
 bash
 Copy code
-git clone https://github.com/seu-usuario/seu-projeto.git
+git clone https://github.com/ElDanveloper/cadastro_de_dados
 ou
 
 Baixe e extraia o arquivo ZIP no diretório htdocs.
