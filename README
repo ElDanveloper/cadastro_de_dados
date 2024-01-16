@@ -1,0 +1,35 @@
+Setup do Formulário de Cadastro
+Este projeto consiste em um simples formulário de cadastro web utilizando XAMPP, PHP, JavaScript e MySQL.
+
+Pré-requisitos
+XAMPP instalado no seu ambiente.
+Configuração do Banco de Dados
+Inicie o XAMPP e certifique-se de que os serviços Apache e MySQL estão ativos.
+
+Acesse o phpMyAdmin em http://localhost/phpmyadmin/.
+
+Crie um novo banco de dados chamado cadastro_db.
+
+Execute o seguinte SQL para criar uma tabela dados_clientes:
+
+
+Configuração do Projeto
+Clone ou baixe este repositório para o diretório htdocs do seu XAMPP.
+
+bash
+Copy code
+git clone https://github.com/seu-usuario/seu-projeto.git
+ou
+
+Baixe e extraia o arquivo ZIP no diretório htdocs.
+
+Navegue até http://localhost/seu-projeto no seu navegador.
+
+Executando o Projeto
+Abra o XAMPP e inicie os serviços Apache e MySQL.
+
+Acesse o formulário de cadastro em http://localhost/seu-projeto.
+
+Preencha o formulário e clique em "Cadastrar".
+
+Os dados serão armazenados no banco de dados cadastro_db na tabela usuarios.
